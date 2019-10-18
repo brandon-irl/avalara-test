@@ -50,4 +50,4 @@ For a full tutorial,  see .NET Core documentation
 * Better prediction logic
 * Better client application
 
-Author: Brandon Alexander balexader.eng@gmail.com
+Author: Brandon Alexander balexander.eng@gmail.com
